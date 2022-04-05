@@ -1,0 +1,15 @@
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\CalculadoraPerimetros.exe
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\CalculadoraPerimetros.deps.json
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\CalculadoraPerimetros.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\CalculadoraPerimetros.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\CalculadoraPerimetros.dll
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\ref\CalculadoraPerimetros.dll
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\bin\Debug\net5.0\CalculadoraPerimetros.pdb
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.dll
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\ref\CalculadoraPerimetros.dll
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.pdb
+D:\Integon\Curso-Csharp\Delegados\CalculadoraPerimetros\obj\Debug\net5.0\CalculadoraPerimetros.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.exe
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.deps.json
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\ref\LambdaExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.pdb
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.csproj.AssemblyReference.cache
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\ref\LambdaExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.pdb
+D:\Integon\Curso-Csharp\Delegados\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.genruntimeconfig.cache
