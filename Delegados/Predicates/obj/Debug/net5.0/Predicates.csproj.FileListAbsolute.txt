@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\Predicates.exe
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\Predicates.deps.json
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\Predicates.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\Predicates.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\Predicates.dll
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\ref\Predicates.dll
+D:\Integon\Curso-Csharp\Delegados\Predicates\bin\Debug\net5.0\Predicates.pdb
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.csproj.AssemblyReference.cache
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.dll
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\ref\Predicates.dll
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.pdb
+D:\Integon\Curso-Csharp\Delegados\Predicates\obj\Debug\net5.0\Predicates.genruntimeconfig.cache

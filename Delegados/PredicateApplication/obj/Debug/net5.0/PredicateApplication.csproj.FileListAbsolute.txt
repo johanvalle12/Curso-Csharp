@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\PredicateApplication.exe
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\PredicateApplication.deps.json
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\PredicateApplication.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\PredicateApplication.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\PredicateApplication.dll
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\ref\PredicateApplication.dll
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\bin\Debug\net5.0\PredicateApplication.pdb
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.csproj.AssemblyReference.cache
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.dll
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\ref\PredicateApplication.dll
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.pdb
+D:\Integon\Curso-Csharp\Delegados\PredicateApplication\obj\Debug\net5.0\PredicateApplication.genruntimeconfig.cache
