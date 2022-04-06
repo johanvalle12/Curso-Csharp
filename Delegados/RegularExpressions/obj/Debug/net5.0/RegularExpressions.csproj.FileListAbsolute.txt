@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\RegularExpressions.exe
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\RegularExpressions.deps.json
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\RegularExpressions.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\RegularExpressions.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\RegularExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\ref\RegularExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\bin\Debug\net5.0\RegularExpressions.pdb
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\ref\RegularExpressions.dll
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.pdb
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.genruntimeconfig.cache
+D:\Integon\Curso-Csharp\Delegados\RegularExpressions\obj\Debug\net5.0\RegularExpressions.csproj.AssemblyReference.cache
