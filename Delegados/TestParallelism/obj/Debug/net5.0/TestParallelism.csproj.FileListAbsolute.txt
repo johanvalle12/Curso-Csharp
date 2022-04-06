@@ -1,0 +1,15 @@
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\TestParallelism.exe
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\TestParallelism.deps.json
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\TestParallelism.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\TestParallelism.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\TestParallelism.dll
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\ref\TestParallelism.dll
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\bin\Debug\net5.0\TestParallelism.pdb
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.dll
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\ref\TestParallelism.dll
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.pdb
+D:\Integon\Curso-Csharp\Delegados\TestParallelism\obj\Debug\net5.0\TestParallelism.genruntimeconfig.cache

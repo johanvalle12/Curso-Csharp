@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\Reminder.exe
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\Reminder.deps.json
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\Reminder.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\Reminder.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\Reminder.dll
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\ref\Reminder.dll
+D:\Integon\Curso-Csharp\Delegados\Reminder\bin\Debug\net5.0\Reminder.pdb
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.csproj.AssemblyReference.cache
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.dll
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\ref\Reminder.dll
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.pdb
+D:\Integon\Curso-Csharp\Delegados\Reminder\obj\Debug\net5.0\Reminder.genruntimeconfig.cache

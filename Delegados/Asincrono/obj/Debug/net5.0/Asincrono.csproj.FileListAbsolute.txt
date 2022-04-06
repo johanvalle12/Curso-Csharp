@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\Asincrono.exe
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\Asincrono.deps.json
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\Asincrono.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\Asincrono.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\Asincrono.dll
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\ref\Asincrono.dll
+D:\Integon\Curso-Csharp\Delegados\Asincrono\bin\Debug\net5.0\Asincrono.pdb
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.csproj.AssemblyReference.cache
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.dll
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\ref\Asincrono.dll
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.pdb
+D:\Integon\Curso-Csharp\Delegados\Asincrono\obj\Debug\net5.0\Asincrono.genruntimeconfig.cache
