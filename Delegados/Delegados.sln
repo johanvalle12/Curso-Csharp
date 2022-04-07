@@ -15,15 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "Lambda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraPerimetros", "CalculadoraPerimetros\CalculadoraPerimetros.csproj", "{40DFC6D5-F83E-46C9-9E42-232CB826CDA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{536373E7-323E-46BD-B841-61FFA6762B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{536373E7-323E-46BD-B841-61FFA6762B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithDates", "WorkingWithDates\WorkingWithDates.csproj", "{79B1BEB3-8F04-44DE-B144-C197D8653A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithDates", "WorkingWithDates\WorkingWithDates.csproj", "{79B1BEB3-8F04-44DE-B144-C197D8653A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asincrono", "Asincrono\Asincrono.csproj", "{2380821A-44E0-40C9-B1C9-35EDC485ADAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asincrono", "Asincrono\Asincrono.csproj", "{2380821A-44E0-40C9-B1C9-35EDC485ADAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reminder", "Reminder\Reminder.csproj", "{3DBFCF52-28CC-459A-B544-25153CF26A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reminder", "Reminder\Reminder.csproj", "{3DBFCF52-28CC-459A-B544-25153CF26A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParallelism", "TestParallelism\TestParallelism.csproj", "{2B97272D-2F72-4CAA-A60E-85F1667AB810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestParallelism", "TestParallelism\TestParallelism.csproj", "{2B97272D-2F72-4CAA-A60E-85F1667AB810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{3CC6218D-91DF-4212-9BC8-37A3E1EBA557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{D586F15A-EB1A-41A6-84A1-2893EA21D049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaEmpleados", "SistemaEmpleados\SistemaEmpleados.csproj", "{59EC8393-4DDD-40CD-8422-11A797AE8862}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{2B97272D-2F72-4CAA-A60E-85F1667AB810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B97272D-2F72-4CAA-A60E-85F1667AB810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B97272D-2F72-4CAA-A60E-85F1667AB810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC6218D-91DF-4212-9BC8-37A3E1EBA557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC6218D-91DF-4212-9BC8-37A3E1EBA557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC6218D-91DF-4212-9BC8-37A3E1EBA557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC6218D-91DF-4212-9BC8-37A3E1EBA557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D586F15A-EB1A-41A6-84A1-2893EA21D049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D586F15A-EB1A-41A6-84A1-2893EA21D049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D586F15A-EB1A-41A6-84A1-2893EA21D049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D586F15A-EB1A-41A6-84A1-2893EA21D049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EC8393-4DDD-40CD-8422-11A797AE8862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EC8393-4DDD-40CD-8422-11A797AE8862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EC8393-4DDD-40CD-8422-11A797AE8862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EC8393-4DDD-40CD-8422-11A797AE8862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

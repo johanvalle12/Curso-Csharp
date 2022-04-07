@@ -1,0 +1,16 @@
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.csproj.AssemblyReference.cache
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.AssemblyInfoInputs.cache
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.AssemblyInfo.cs
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.csproj.CoreCompileInputs.cache
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\BankApp.exe
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\BankApp.deps.json
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\BankApp.runtimeconfig.json
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\BankApp.runtimeconfig.dev.json
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\BankApp.dll
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\ref\BankApp.dll
+D:\Integon\Curso-Csharp\Delegados\BankApp\bin\Debug\net5.0\BankApp.pdb
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.dll
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\ref\BankApp.dll
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.pdb
+D:\Integon\Curso-Csharp\Delegados\BankApp\obj\Debug\net5.0\BankApp.genruntimeconfig.cache
